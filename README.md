@@ -2,16 +2,16 @@
   <h1>Fit-Market</h1>
 </div>
 
-## What is Fit-Market?
+## What is E-com?
 
-Fit-Market is not just an online marketplace; it's a destination where you can discover, explore, and indulge in the latest trends and essential assets. We are committed to revolutionizing your shopping experience by combining convenience and quality in one platform.
+E-com is not just an online marketplace; it's a destination where you can discover, explore, and indulge in the latest trends and essential assets. We are committed to revolutionizing your shopping experience by combining convenience and quality in one platform.
 
 ## What does it do?
 
 <ul>
 
 <li>
-Fit-Market is an online marketplace that offers a wide range of products, including clothing and valuable assets. We provide a user-friendly platform for customers to browse and purchase high-quality items from renowned brands. With secure payment options and prompt delivery services, Fit-Market ensures a convenient and reliable shopping experience. Our commitment to quality and customer satisfaction sets us apart as your ultimate online shopping destination.
+E-com is an online marketplace that offers a wide range of products, including clothing and valuable assets. We provide a user-friendly platform for customers to browse and purchase high-quality items from renowned brands. With secure payment options and prompt delivery services, Fit-Market ensures a convenient and reliable shopping experience. Our commitment to quality and customer satisfaction sets us apart as your ultimate online shopping destination.
 
 </ul>
 
@@ -25,19 +25,19 @@ Fit-Market is an online marketplace that offers a wide range of products, includ
 3. Open the folder containing the cloned repository
 
 4.Download dependencies
-Go inside ./Fit-Market/
+Go inside ./Com-Market-main/
 
 ```sh
 Run npm install 
 ```
 
-Go inside Fit-Market/frontend
+Go inside Com-Market-main/frontend
 
 ```sh
 Run npm install
 ```
 
-To start the project on localhost Go inside ./Fit-Market/
+To start the project on localhost Go inside ./Com-Market-main/
 
 ```sh
 Run nodemon
@@ -91,12 +91,6 @@ STRIPE_SECRET_KEY=
 #### Product Details Page
 
 <img width="929" alt="image" src="https://github.com/Rajivkumawat3/Fit-Market/assets/122862213/2df87930-5367-43d2-b42d-9ad4c7e8338f">
-
-
-
-#### About Us Page
-
-<img width="935" alt="image" src="https://github.com/Rajivkumawat3/Fit-Market/assets/122862213/60eaccb9-3b2c-4b97-ab2a-ca9f2b2f7511">
 
 
 #### Admin Dashboard
